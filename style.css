@@ -4,14 +4,15 @@
 /* Slideshow container */
 .slideshow-container {
   max-width: 1000px;
+  height: 400px;
   position: relative;
   margin: auto;
 }
 
-/* Hide the images by default */
+/* Hide the images by default
 .mySlides {
   display: none;
-}
+}*/
 
 /* Next & previous buttons */
 .prev, .next {
