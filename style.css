@@ -1,6 +1,13 @@
 /*style.css*/
 * {box-sizing:border-box}
 
+.content-wrapper {
+  display: block;
+  margin-top: auto;
+  margin-bottom: auto;
+  max-height: 1000px;
+}
+
 .paragraphContainer
 {
 	position: relative;
