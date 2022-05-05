@@ -165,9 +165,3 @@
   from {opacity: .4}
   to {opacity: 1}
 }
-
-.grid-container {
-	display: grid;
-	column-gap: 50px;
-	row-gap: 50px;
-}
