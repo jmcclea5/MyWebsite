@@ -194,6 +194,17 @@
   width: 100%;
 }
 
+img.fade:hover /* fade out on hover */ {
+  opacity:0.5;
+}
+img.fade + span /* hide spans immediately after images that are set to fade */ {
+  visibility:hidden;
+}
+img.fade:hover + span /* display spans immediately after :hover faded images */ {
+  visibility: visible;
+}
+
+
 /* Responsive layout - makes a two column-layout instead of four columns */
 @media screen and (max-width: 800px) {
   .column {
