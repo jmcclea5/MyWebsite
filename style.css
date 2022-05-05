@@ -200,3 +200,10 @@
     max-width: 100%;
   }
 }
+
+.card {
+  background-color: dodgerblue;
+  color: white;
+  padding: 1rem;
+  height: 4rem;
+}
