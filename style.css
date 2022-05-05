@@ -172,7 +172,10 @@
 }
 
 .row {
-  width: auto;
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
   display: flex;
   flex-wrap: wrap;
   padding: 0 4px;
