@@ -165,3 +165,8 @@
   from {opacity: .4}
   to {opacity: 1}
 }
+
+.grid-container {
+	display: grid;
+	
+}
