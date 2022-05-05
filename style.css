@@ -19,6 +19,7 @@
   max-height: 500px;
   position: relative;
   margin: auto;
+  border: 5px solid black;
 }
 
 /* Hide the images by default*/
