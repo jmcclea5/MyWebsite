@@ -80,6 +80,7 @@
 
 /* Slideshow container */
 .slideshow-container {
+  object-fit: cover;
   max-width: 500px;
   max-height: 500px;
   position: relative;
